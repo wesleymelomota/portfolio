@@ -1,0 +1,71 @@
+.skills{
+    background-color: #fff;
+    
+}
+.mat-tab-group {
+    margin-bottom: 48px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+.title{
+    background: #000428;
+    border-radius: 15%;
+    
+    height: 3%;
+    width: 150px;
+    margin-top: 2%;
+}
+.sub-title{
+    padding: 6px;
+}
+.img{
+    max-width: 80px;
+    max-height: 90px;
+}
+.img-java{
+    max-width: 130px;
+    max-height: 100px;
+}
+.habilidades{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+.skills{
+    background-image: url("../../../../assets/codigo.jpeg");
+    color: #fff;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+.habilidades .back{
+    display: flex;
+    flex-direction: column;
+}
+.habilidades .front{
+    display: flex;
+    flex-direction: column;
+}
+.img-proj{
+    max-width: 450px;
+    max-height: 470px;
+}
+.logo-items{
+    margin: 3px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container-item{
+    margin: 5px;
+    margin-left: 2%;
+}
+a{
+    text-decoration: none;
+    color:rgb(27, 136, 238);
+}

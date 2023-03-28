@@ -1,0 +1,16 @@
+.footer{
+    background: #000428;
+    color: #fff;
+    margin-bottom: 0%;
+    height: 120px;
+}
+.contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.email{
+    display: flex;
+    
+}
