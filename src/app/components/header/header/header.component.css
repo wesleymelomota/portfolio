@@ -73,3 +73,7 @@
     max-width: 60px;
     max-height: 60;
 }
+.font-size{
+    font-size: 0.95rem;
+    font-family: sans-serif;
+}
